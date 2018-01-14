@@ -95,6 +95,7 @@
 							if(i.indexOf("%") > -1) before = "%";
 							html += "<span style=\"width:" + snapshots[v].rows[i].width + "px;\">" + combat.get(i).toFixed(0) + before + "</span>";
 						}
+						$(selector + ">.data").html("");
 						$(selector + ">.data").html(html);
 					}
 					$(snapshots[v].element).css("height", (idx * height) + "px");
