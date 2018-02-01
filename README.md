@@ -1,5 +1,7 @@
 # chrysoberyl.Cat_s_Eye
 
+### This overlay not yet versioning
+
 ###### Latest Stable Version
 > https://ffxiv.work/CatsEye/
 
